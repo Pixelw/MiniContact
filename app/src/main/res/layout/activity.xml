@@ -6,7 +6,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.example.administrator.yalimasinei.Activity">
-
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -29,7 +28,6 @@
             android:textColor="#F00"
             android:textSize="20sp"/>
     </LinearLayout>
-
     <ListView
         android:id="@+id/list_item"
         android:layout_width="match_parent"
